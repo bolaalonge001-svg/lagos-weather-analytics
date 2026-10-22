@@ -71,6 +71,7 @@ October 19, 2026, recorded the highest daily average temperature of approximatel
 September 28, 2026, recorded the highest daily precipitation of 27.3 mm.
 
 ## Power BI Dashboard
+![Lagos Weather Analytics Dashboard](lagos_weather_dashboard.png)
 
 An interactive Power BI dashboard was developed to present the weather analysis.
 
